@@ -1,3 +1,2 @@
 abc
-
-this is an example once again
+this is second line
