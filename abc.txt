@@ -1,5 +1,1 @@
 abc
-this is second line
-this is the fourth line
-this is the third line
-this is fifth line
